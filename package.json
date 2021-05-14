@@ -1,0 +1,14 @@
+{
+  "name": "bot-giveaways",
+  "version": "1.0.0",
+  "description": "https://discord.gg/u96zCPb5Pp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azm",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
